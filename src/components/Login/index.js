@@ -39,7 +39,7 @@ class Login extends Component {
       <div>
         <h1>Please Login</h1>
         <button type="submit" onClick={this.setData}>
-          Login with Sample Credentials
+          Login with Sample Creds
         </button>
       </div>
     )
